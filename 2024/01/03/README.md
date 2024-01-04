@@ -1,7 +1,8 @@
-# 2024-01-02
+# 2024-01-03
 ## 문제
 * test1.js 
-    * [대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)
+    * [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)
 
-* test2.js 
-    * [카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)
+* test2.js
+    * [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) 
+
